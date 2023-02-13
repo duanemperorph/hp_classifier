@@ -142,3 +142,6 @@ examples/
 images/
 
 .DS_Store
+
+lightning_logs/
+model/
